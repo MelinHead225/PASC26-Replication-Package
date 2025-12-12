@@ -2,7 +2,7 @@
 
 This repository is an artifact from the research paper:
 
-Multi-Artifact Analysis of Self-Admitted Technical Debt in
+## Multi-Artifact Analysis of Self-Admitted Technical Debt in
 Scientific Software.
 
 Context: Self-admitted technical debt (SATD) occurs when develop-
